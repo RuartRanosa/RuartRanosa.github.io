@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+  <head>
+      <title> EXERCISE 1 </title>
+  </head>
+  <body bgcolor = "black">
+    <h1><font color="red">NAME: Ranosa, John Philip Ruart M.</font></h1>
+    <br>
+    <h4><font color="yellow">NICKNAME: Ruart</font></h4>
+    <br>
+    <a href = "https://ruartranosa.github.io/">
+    <img src = "https://raw.githubusercontent.com/RuartRanosa/RuartRanosa.github.io/master/IMG_20170808_042658.jpg"
+      alt = "Yahoo" width="200" height="200">
+    </a>
+    <h4><font color="yellow">I like watching anime and drawing</font></h4>
+    <br>
+    <h4><font color="yellow">I thought computer science was interesting </font></h4>
+    <br>
+    <h4><font color="yellow">My favorite CMSC subj so far is CMSC 22 since we were able to make a game. </font></h4>
+    <br>
+    <h4><font color="yellow">My favorite programming language is C++ since it has the versatility of C + object orientation. </font></h4>
+    <br>
+    <h4><font color="yellow">Hobbies: Drawing and sleeping</font></h4>
+    <br>
+    <h4><font color="yellow">Favorite food: Lasagna</font></h4>
+    <br>
+    <h4><font color="yellow">Favorite color: Black</font></h4>
+    <br>
+  </body>
+</html>
